@@ -82,3 +82,5 @@ SEO是搜索引擎优化（Search Engine Optimization）的缩写，是指通过
 >总结
 >
 >SEO是一个复杂的过程，需要了解搜索引擎的工作原理，并采取相应的措施来优化网站。本文介绍了7个SEO核心概念及示例，为SEO初学者提供了一个基本的了解。
+
+这篇文章引用： [大周讲外贸dazhou.icu](https://dazhou.icu/what-is-seo/)。
